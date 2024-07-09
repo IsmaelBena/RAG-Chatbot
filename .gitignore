@@ -1,3 +1,6 @@
 # Ignore Ennvironment Files
 RAG_Chatbot_env/
 .python-version
+
+# Env Variables
+.env
